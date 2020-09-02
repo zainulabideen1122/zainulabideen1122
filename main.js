@@ -248,7 +248,7 @@ const mainPage = document.querySelector('.mainPage');
 setTimeout(function() {
     preloader.style.display= "none"
     mainPage.style.display= "block"
-}, 2300);
+}, 1000);
 
 
 
