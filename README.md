@@ -16,9 +16,6 @@
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 <br/>
-Follow me up on: <br/>
-<a href="https://www.linkedin.com/in/zainnisar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
-<a href="https://twitter.com/zain0747"><img src="https://img.shields.io/badge/Twitter-%23100000.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile"/></a>
 
 
 ## About me:
@@ -49,6 +46,9 @@ process of polishing my critical thinking and other skills and experimenting wit
 **zainulabideen1122/zainulabideen1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Zain's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainulabideen1122&show_icons=true&theme=vue)
 Here are some ideas to get you started:
+Follow me up on: <br/>
+<a href="https://www.linkedin.com/in/zainnisar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile"/></a> &nbsp;
+<a href="https://twitter.com/zain0747"><img src="https://img.shields.io/badge/Twitter-%23100000.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile"/></a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
