@@ -3,7 +3,7 @@
 </p>
 <hr>
 
-<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zain <p align="center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=500&color=E9C46A&center=true&width=435&lines=Full-Stack+Developer;Software+Engineer;Backend+Developer;API's+Developer; Database+Engineer; Frontend+Developer" alt="Typing SVG" /></a></p>
+<h1 align="center" >Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zain <p align="center" > <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=500&color=E9C46A&center=true&width=435&lines=Full-Stack+Developer;Software+Engineer;Backend+Developer;API's+Developer;Database+Engineer;Frontend+Developer" alt="Typing SVG" /></a></p>
 <p align="center"><sub>Passionate about crafting innovative web applications and leveraging technology to address real-world challenges.</sub></p>
   <p align="center">
     <a href="https://zainnisar.framer.ai/"><img src="https://img.shields.io/badge/-zainnisar.me-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
